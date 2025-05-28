@@ -72,7 +72,3 @@ python auto_trader_ma.py
 ## ライセンス
 
 MIT License
-
-## 作者
-
-あなたの名前 
